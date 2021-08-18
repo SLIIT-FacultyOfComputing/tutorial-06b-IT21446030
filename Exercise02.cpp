@@ -25,7 +25,7 @@ int main() {
    cout << "Box Height " << box1.getHeight() << endl;
    cout << "Box Length " << box1.getLength() << endl;
    cout << "Box Width " << box1.getWidth() << endl;
-   cout << "Volume of Box is " << box1.calcVolume() << endl;
+   cout << "Volume of Box is "  << box1.calcVolume() << endl;
    // ==========================================
       return 0;
 }
